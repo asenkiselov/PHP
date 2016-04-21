@@ -1,0 +1,23 @@
+#Tue Apr 12 01:31:41 EEST 2016
+com.vectrace.mercurialeclipse.ui.colorsandfonts.removedBackgroundColor=255,61,61
+com.vectrace.mercurialeclipse.ui.colorsandfonts.conflictForegroundColor=255,0,0
+com.vectrace.mercurialeclipse.ui.colorsandfonts.deletedBackgroundColor=255,61,61
+HYPERLINK_COLOR=13,17,113
+ACTIVE_HYPERLINK_COLOR=13,17,113
+hyperlinkColor=13,17,113
+com.vectrace.mercurialeclipse.ui.colorsandfonts.unknownForegroundColor=0,0,0
+eclipse.preferences.version=1
+com.vectrace.mercurialeclipse.ui.colorsandfonts.IgnoredBackgroundColor=255,255,255
+ENABLED_DECORATORS=org.eclipse.jst.j2ee.navigator.ui.java.resource.decorator\:true,org.eclipse.wst.server.ui.decorator\:false,net.sourceforge.phpdt.ui.problem.decorator\:true,net.sourceforge.phpdt.ui.override.decorator\:true,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.DependencyDecoration\:true,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.ColumnDecoration\:true,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.ForeignKeyDecoration\:true,org.eclipse.datatools.connectivity.sqm.internal.core.ui.bookmarkDecoration\:true,org.eclipse.datatools.connectivity.ui.decorator.contentextension\:false,org.eclipse.jdt.ui.override.decorator\:true,org.eclipse.jdt.ui.interface.decorator\:false,org.eclipse.jst.j2ee.internal.ui.util.AnnotationIconDecorator_ejb\:true,org.eclipse.jst.j2ee.navigator.internal.J2EEProjectDecorator\:true,org.eclipse.jst.j2ee.internal.ui.util.AnnotationIconDecorator_servlet\:true,org.eclipse.mylyn.context.ui.decorator.interest\:true,org.eclipse.mylyn.tasks.ui.decorators.task\:true,org.eclipse.mylyn.team.ui.changeset.decorator\:true,org.eclipse.pde.ui.binaryProjectDecorator\:false,org.eclipse.team.cvs.ui.decorator\:true,org.eclipse.ui.LinkedResourceDecorator\:true,
+hyperlinkColor.SystemDefault=false
+org.eclipse.egit.ui.UncommittedChangeBackgroundColor=115,255,101
+com.vectrace.mercurialeclipse.ui.colorsandfonts.addedBackgroundColor=115,255,101
+com.vectrace.mercurialeclipse.ui.colorsandfonts.removedForegroundColor=255,255,255
+com.vectrace.mercurialeclipse.ui.colorsandfonts.deletedForegroundColor=255,255,255
+com.vectrace.mercurialeclipse.ui.colorsandfonts.conflictBackgroundColor=255,255,255
+com.vectrace.mercurialeclipse.ui.colorsandfonts.IgnoredForegroundColor=0,0,0
+org.eclipse.egit.ui.UncommittedChangeForegroundColor=0,0,0
+com.vectrace.mercurialeclipse.ui.colorsandfonts.changedForegroundColor=255,255,255
+com.vectrace.mercurialeclipse.ui.colorsandfonts.addedForegroundColor=0,0,0
+com.vectrace.mercurialeclipse.ui.colorsandfonts.unknownBackgroundColor=255,255,255
+com.vectrace.mercurialeclipse.ui.colorsandfonts.changedBackgroundColor=245,196,17
